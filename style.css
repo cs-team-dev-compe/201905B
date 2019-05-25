@@ -29,6 +29,25 @@ header .title h1{
     border-color: red;
 }
 
+li iframe{
+    margin: 0 auto;
+    width: 100%;
+}
+li{
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul{
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+}
+
 
 
 
