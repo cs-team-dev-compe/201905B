@@ -55,5 +55,9 @@ h2：14px * 1.618 = 22.65px
 h1：14px * 1.618 **2 = 36.65px
 ```
 
+## 担当
 
+Header,Footer,Sidebar:原田
+
+Main:多田
 
