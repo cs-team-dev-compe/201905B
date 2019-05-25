@@ -1,4 +1,4 @@
-:header .img img{
+header .img img{
     width:100px;
     height: 100px;
 }
@@ -16,9 +16,17 @@ header .title h1{
     position: absolute;
     top:25px;
 }
+.container{
+    display: flex;
+}
 
-.descript{
-    margin-left:30px;
+.line{
+    border: 3px solid #adff2f;
+    margin-bottom: 20px;
+}
+
+.color{
+    border-color: red;
 }
 
 li iframe{
