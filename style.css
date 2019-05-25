@@ -1,0 +1,21 @@
+header .img img{
+    width:100px;
+    height: 100px;
+}
+
+.set-margin{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+header .title{
+    position: relative;
+}
+
+header .title h1{
+    position: absolute;
+    top:25px;
+}
+
+
+
