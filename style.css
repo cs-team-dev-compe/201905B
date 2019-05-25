@@ -20,6 +20,16 @@ header .title h1{
     display: flex;
 }
 
+.line{
+    border: 3px solid #adff2f;
+    margin-bottom: 20px;
+}
+
+.color{
+    border-color: red;
+}
+
+
 
 
 
